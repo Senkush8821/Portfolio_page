@@ -1,0 +1,77 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><script async src="https://www.googletagmanager.com/gtag/js?id=G-VMLZFNXE2B"></script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-156299106-1"></script><script>window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      function gtagnt() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtagnt('js', new Date());
+      const GA_ANALYTICS_ID = 'G-VMLZFNXE2B';
+      const GA_ANALYTICS_NT_ID = 'UA-156299106-1';
+      gtag('config', GA_ANALYTICS_ID);
+      gtagnt('config', GA_ANALYTICS_NT_ID, 'new-tracker');
+      const GA_CUSTOM_DIMENSIONS = {
+        dimension0: 'courseHash',
+        dimension1: 'utmParams',
+        dimension2: 'questionHash',
+        dimension3: 'lectureHash',
+        dimension4: 'meetingHash',
+        dimension5: 'quizHash',
+        dimension6: 'assignmentHash',
+        dimension7: 'oneToOneHash',
+        dimension8: 'doubtHash',
+        dimension9: 'filterName',
+        dimension10: 'playgroundHash',
+        dimension11: 'sortBy',
+        dimension12: 'totalVoteCount',
+        dimension13: 'err',
+        dimension14: 'infoReceived',
+        dimension15: 'googleAuthError',
+        dimension16: 'slug'
+      };
+      gtag('config', GA_ANALYTICS_ID, {
+        custom_map: GA_CUSTOM_DIMENSIONS,
+      });
+      gtagnt('config', GA_ANALYTICS_NT_ID, {
+        custom_map: GA_CUSTOM_DIMENSIONS,
+      });</script><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="mobile-web-app-capable" content="yes"/><meta name="robots" content="noindex"/><link href="https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap" rel="stylesheet"/><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"/><link rel="icon" href="/favicon.ico"/><title>Newton School</title><script>!(function(f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function() {
+          n.callMethod
+            ? n.callMethod.apply(n, arguments)
+            : n.queue.push(arguments);
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s);
+      })(
+        window,
+        document,
+        'script',
+        'https://connect.facebook.net/en_US/fbevents.js',
+      );
+      fbq('init', '422567131990973');
+      fbq('track', 'PageView');</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=422567131990973&ev=PageView&noscript=1(44 B)
+   https://www.facebook.com/tr?id=422567131990973&ev=PageView&noscript=1"/></noscript><script>window._tfa = window._tfa || [];
+      window._tfa.push({ notify: 'event', name: 'page_view', id: 1417187 });
+      !(function(t, f, a, x) {
+        if (!document.getElementById(x)) {
+          t.async = 1;
+          t.src = a;
+          t.id = x;
+          f.parentNode.insertBefore(t, f);
+        }
+      })(
+        document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/unip/1417187/tfa.js',
+        'tb_tfa_script',
+      );</script><script>!function(e,t,n,c,p,o){e.qp||((c=e.qp=function(){c.qp?c.qp.apply(c,arguments):c.queue.push(arguments)}).queue=[],(p=document.createElement(t)).async=!0,p.src="https://a.quora.com/qevents.js",(o=document.getElementsByTagName(t)[0]).parentNode.insertBefore(p,o))}(window,"script"),qp("init","5c49bdb1c107406cb01be9179c5c3f88"),qp("track","ViewContent")</script><noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/5c49bdb1c107406cb01be9179c5c3f88/pixel?tag=ViewContent&noscript=1"/></noscript><script>_linkedin_partner_id="820787",window._linkedin_data_partner_ids=window._linkedin_data_partner_ids||[],window._linkedin_data_partner_ids.push(_linkedin_partner_id)</script><script>!function(){var t=document.getElementsByTagName("script")[0],e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://snap.licdn.com/li.lms-analytics/insight.min.js",t.parentNode.insertBefore(e,t)}()</script><noscript><img height="1" width="1" style="display:none" alt="" src="https://px.ads.linkedin.com/collect/?pid=820787&fmt=gif"/></noscript><meta name="apple-mobile-web-app-title" content="Newton School"/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-status-bar-style" content="default"/><meta name="theme-color" content="#28abe5"/><link rel="apple-touch-icon" sizes="180x180" href="https://d15kzf698mbmzz.cloudfront.net/dist/icon_180x180.b7bd51db7de8a010a275d90024d91ef9.png"/><link rel="apple-touch-icon" sizes="167x167" href="https://d15kzf698mbmzz.cloudfront.net/dist/icon_167x167.0eb6b889313e17a3fe5b2d7b1b7492f8.png"/><link rel="apple-touch-icon" sizes="152x152" href="https://d15kzf698mbmzz.cloudfront.net/dist/icon_152x152.942ee893143ca15cc4cdde5a5d58e8a2.png"/><link rel="apple-touch-icon" sizes="120x120" href="https://d15kzf698mbmzz.cloudfront.net/dist/icon_120x120.3d7349a0978bf5cfc4b4cf7e1d4fab99.png"/><link rel="manifest" href="https://d15kzf698mbmzz.cloudfront.net/dist/manifest.27e4bcf27b5391661ae695a4fa8e05c8.json"/></head><body><noscript>If you're seeing this message, that means <strong>JavaScript has been disabled on your browser</strong>, please <strong>enable JS</strong> to make this app work.</noscript><div id="app"></div><script type="text/javascript" src="https://d15kzf698mbmzz.cloudfront.net/dist/runtime.65d27fb381948842b05f.js"></script><script type="text/javascript" src="https://d15kzf698mbmzz.cloudfront.net/dist/npm.lodash.9d4e97e3be7ea635e6f3.chunk.js"></script><script type="text/javascript" src="https://d15kzf698mbmzz.cloudfront.net/dist/npm.babel.18ef963c37f231cf3cb8.chunk.js"></script><script type="text/javascript" src="https://d15kzf698mbmzz.cloudfront.net/dist/npm.emotion.fefdf232f99200cfdf7e.chunk.js"></script><script type="text/javascript" src="https://d15kzf698mbmzz.cloudfront.net/dist/npm.react-confirm-alert.358985a6393f61746760.chunk.js"></script><script type="text/javascript" src="https://d15kzf698mbmzz.cloudfront.net/dist/npm.prop-types-extra.a7be1321a7a8552d6e1b.chunk.js"></script><script type="text/javascript" src="https://d15kzf698mbmzz.cloudfront.net/dist/npm.react-circular-progressbar.ec701159cd80c2d416bf.chunk.js"></script><script type="text/javascript" src="https://d15kzf698mbmzz.cloudfront.net/dist/npm.react-bootstrap.6ccf102c13aa2e313c4d.chunk.js"></script><script type="text/javascript" src="https://d15kzf698mbmzz.cloudfront.net/dist/npm.moment.740433554c638d2e7d8c.chunk.js"></script><script type="text/javascript" src="https://d15kzf698mbmzz.cloudfront.net/dist/npm.react-app-polyfill.0d57b647ecf27e1b046c.chunk.js"></script><script type="text/javascript" src="https://d15kzf698mbmzz.cloudfront.net/dist/main.61030b1501dc0bc138c3.chunk.js"></script></body></html>
